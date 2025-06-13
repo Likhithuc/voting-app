@@ -1,0 +1,8 @@
+.container {
+    max-width: 700px;
+    margin: auto;
+}
+
+.option-list button {
+    margin-right: 10px;
+}
